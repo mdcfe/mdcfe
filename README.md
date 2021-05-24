@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🍍 Hey there, I'm MD, and I use he/him pronouns!
-- 🧪 I currently maintain [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials)!
-- 🎮 I help run the [N3FS](https://n3fs.co.uk/) Minecraft server and community!
-- 🎈 I'm working on a new, awesome, secret project for Minecraft servers and developers!
-- 🧰 I'm also part of the [Minecraft Open Source Software](https://discord.gg/h8CnPSw) community on Discord!
-- 📫 You can reach me on various Discord servers - my Discord is `mdcfe#1970`!
-- ❤ You can support me using [GitHub Sponsors](https://github.com/sponsors/mdcfe/)!
+- 🍍 Hey there, I'm MD! I use he/him pronouns.
+- 🧪 I currently maintain [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials).
+- 🎮 I also run the [N3FS](https://n3fs.co.uk/) Minecraft server and community!
+- 🎈 I'm working on a new, awesome, secret project for Minecraft servers and developers.
+- 🧰 I'm also part of the [Minecraft Open Source Software](https://discord.gg/h8CnPSw) community on Discord.
+- 📫 You can reach me on Discord - my Discord is `mdcfe#1970`.
+- ❤ If you want to support my work, you can support me using [GitHub Sponsors](https://github.com/sponsors/mdcfe/).
 
 <!--
 **mdcfe/mdcfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
