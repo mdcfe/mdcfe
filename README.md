@@ -6,7 +6,7 @@
 - 🎈 I'm working on a new, awesome, secret project for Minecraft servers and developers.
 - 🧰 I'm also part of the [Minecraft Open Source Software](https://discord.gg/h8CnPSw) community on Discord.
 - 📫 You can reach me on Discord - my Discord is `mdcfe#1970`.
-- ❤ If you want to support my work, you can support me using [GitHub Sponsors](https://github.com/sponsors/mdcfe/).
+- ❤ If you want to support my work, you can do so over at [GitHub Sponsors](https://github.com/sponsors/mdcfe/).
 
 <!--
 **mdcfe/mdcfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
