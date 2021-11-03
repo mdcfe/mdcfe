@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🍍 Hey there, I'm MD! I use he/him pronouns.
-- 🧪 I currently maintain [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials).
-- 🎮 I also run the [N3FS](https://n3fs.co.uk/) Minecraft server and community!
-- 🎈 I'm working on a new, awesome, secret project for Minecraft servers and developers.
+- 🧪 You might know me as the maintainer of [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials).
+- 🎮 I also run the [N3FS](https://n3fs.co.uk/) Minecraft community.
+- 🎈 I'm working on a new, awesome project for Minecraft servers and developers.
 - 🧰 I'm also part of the [Minecraft Open Source Software](https://discord.gg/h8CnPSw) community on Discord.
-- 📫 You can reach me on Discord - my Discord is `mdcfe#1970`.
+- 📫 You can reach me through MOSS on Discord - my Discord is `mdcfe#1970`.
 - ❤ If you want to support my work, you can do so over at [GitHub Sponsors](https://github.com/sponsors/mdcfe/).
 
 <!--
